@@ -1,1 +1,3 @@
-# Default starter for Gridsome
+# RY Blog
+
+RYounus Blog - Deep dives and hot takes 🔥
